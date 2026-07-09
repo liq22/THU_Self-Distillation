@@ -6,6 +6,7 @@ type: lesson
 status: growing
 visibility: public
 tags: [lesson, spec_driven, 论文写作, Codex, Claude, 工作流, 方法论]
+audience: junior
 related:
   - "[[神经符号PHM综述]]"
   - "[[论文流水线5步法]]"
@@ -23,6 +24,16 @@ related:
 ## 边界说明
 
 这页是**方法论复盘与可执行清单**, 不是某个具体论文的写作日志。它从神经符号 PHM 综述的产出过程中抽象出"spec-driven 写作"的通用流程, 适用于任何需要长周期、多轮迭代、人机协作的论文 (尤其综述与长文)。论文正文、goal 包内容、协作日志均属敏感/大体积原件, 公开页只记**流程 + 结构 + 指针**。
+
+## 适合谁读
+
+如果你正准备写一篇综述、长会议论文或博士论文章节,内容体量大、结构复杂、需要多轮人机协作——这页是给你看的 spec-driven 写作方法论。特别适合清华机械系或相关方向、第一次走"结构先行 + AI 协作"长文流程的博士 / 博后。
+
+## 读完能做什么
+
+- 拿到"规格先行 + goal 包 + 流水线"的三件套,知道写正文前先把分类体系与大纲定成契约。
+- 学会用命名的 goal 包给 Codex/Claude 一个明确任务边界,避免 AI 越界改坏正文。
+- 用 `specs → goal → logs → paper` 的可追溯流水线做投稿/返修前的客观就绪检查,不再靠感觉。
 
 ---
 
@@ -106,11 +117,11 @@ specs (大纲/规格)
 
 ## 关键文件 → 私有指针
 
-> 以下均为大体积或未发表原件, 公开页只记指针。
-
-- spec-driven 工作流的完整范例仓库: `敏感原件, 见 98_Private_LOCAL_勿提交 私有指针`
+- spec-driven 工作流的完整范例仓库（神经符号 PHM 综述）：私有指针
   - 指针路径: `LQQL_OS/论文流水线/P03_nesy_phm_review/`
   - 关键产物: `.specify/` · `goal/codex_goal_submission_ready_phm_nesy` · `goal/codex_goal_air_review_response_readiness_phm_nesy` · `logs/` · `specs/`
+
+> 敏感原件与大体积资产只写私有指针, 规则见 [[处理规范_脱敏与可见性]]。
 
 ---
 

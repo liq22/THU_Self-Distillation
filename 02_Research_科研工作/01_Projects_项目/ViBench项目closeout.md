@@ -74,7 +74,7 @@ PHM-Vibench 是面向 foundation model era 的统一振动 PHM 基准平台，�
 - 实验验证显示在跨域场景上有更优表现（superior cross-domain performance，详见论文实验章节）。
 - 平台同时兼容传统 ML 模型与 foundation model。
 
-> 敏感原件（论文全文 PDF / 评议 / 签字件 / 学号关联材料）：见私有指针，不内联进公开页。
+> 敏感原件与大体积资产只写私有指针, 规则见 [[处理规范_脱敏与可见性]]。
 
 ## 失败尝试 / 负结果
 
@@ -88,8 +88,6 @@ PHM-Vibench 是面向 foundation model era 的统一振动 PHM 基准平台，�
 - **Code（复刻仓库，6.4 GB 含 venv）**：`LQQL_OS/论文流水线/R00-phmfactory/` —— 见 [[R00-phmfactory代码结构]]。开源镜像：github.com/PHMbench/PHM-Vibench。
 - **Data（89 GB，跨域引用 04_data）**：`D01_vibench/` —— 见 [[PHM-Vibench数据集索引]]。体积过大，只写指针，不内联。
 - **Environment / Claude 工作流配置**：`paper/paper_25_9_vibench/.claude/config.yaml`（7.4 KB）与 `.claude/settings.json`（2.7 KB）—— spec-driven 论文写作工作流的配置实例，见 [[spec_driven论文写作工作流]]。
-
-> 大体积资产（venn / 数据集 / 全文 PDF）一律只写路径指针，不进 git。
 
 ## 论文/报告/展示
 
@@ -127,7 +125,7 @@ PHM-Vibench 是面向 foundation model era 的统一振动 PHM 基准平台，�
 
 ## 原始资产指针（私有，勿提交）
 
-> 以下路径指向体积大或含过程档案的原始资产。公开页只记指针 + 结构 + 方法，不内联内容。原件见 `98_Private_LOCAL_勿提交` 对应备份区。
+> 敏感原件与大体积资产只写私有指针, 规则见 [[处理规范_脱敏与可见性]]。
 
 - **11 份打磨文档（过程档案，不可再生）**：源路径 `paper/paper_25_9_vibench/.claude/Doc/UPHMP_C/`，含：
   - `A1_Paper_Structure_Analysis.md` — 715 行 LaTeX 草稿结构分析
@@ -144,8 +142,6 @@ PHM-Vibench 是面向 foundation model era 的统一振动 PHM 基准平台，�
 - **复刻代码仓库（6.4 GB，含 venv）**：`LQQL_OS/论文流水线/R00-phmfactory/`
 - **数据集（89 GB）**：`D01_vibench/`
 - **夸克备份镜像**：`博士毕业数据总仓库_202606/06_知识系统与自蒸馏OS/ViBench_论文复盘文档/`
-
-> 上述源机器本地路径在换机器后会失效；以夸克备份 + `98_Private_LOCAL_勿提交` 为准。
 
 ---
 

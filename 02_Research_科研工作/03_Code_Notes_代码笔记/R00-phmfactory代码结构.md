@@ -58,7 +58,7 @@ PHM-Vibench 论文要一个既能跑传统 ML、又能跑 foundation model、且
 
 ## 环境
 
-> 体积大的（venv / .env / 数据）只写指针，不进 git。环境复现见 [[30分钟重建conda环境SOP]]。
+> 敏感原件与大体积资产只写私有指针, 规则见 [[处理规范_脱敏与可见性]]。环境复现见 [[30分钟重建conda环境SOP]]。
 
 - **Code version / commit**：以开发机 `<K盘开发机>/.../R00-phmfactory/` 当前 HEAD 为准；开源镜像 github.com/PHMbench/PHM-Vibench。
 - **Data version**：89 GB HDF5（16 数据集）+ metadata.xlsx（39 MB），指针见 [[PHM-Vibench数据集索引]]，不在本仓库内联。
@@ -110,8 +110,6 @@ R00-phmfactory/
 - `dev/preexp/exp1_mse_vs_flowpretraining.ipynb`（5.4 MB）— MSE vs Flow pretraining 对比实验。
 - `dev/del/` — 交付笔记本（正式实验产物，对应论文实验章节）。
 
-> 笔记本体积大，只写指针，不内联进 vault。原件见开发机路径 / 夸克备份。
-
 ## 结果（复现要点）
 
 > 本页是代码笔记，"结果"指复现这套仓库的实操要点，不是论文实验数值（数值见 [[ViBench项目closeout]] 与论文正文）。
@@ -160,7 +158,7 @@ factory 解耦之所以 work，是因为它把"变的部分"（具体数据集�
 
 ## 原始资产指针（私有，勿提交）
 
-> 体积大或含本地配置的原始资产只写指针，不内联。原件见 `98_Private_LOCAL_勿提交` 对应备份区。
+> 敏感原件与大体积资产只写私有指针, 规则见 [[处理规范_脱敏与可见性]]。
 
 - **复刻代码仓库（6.4 GB，含 venv）**：`LQQL_OS/论文流水线/R00-phmfactory/`
   - 其中 `.env/`（venv，约 5 GB）**不上传**，靠 [[30分钟重建conda环境SOP]] 重建。
@@ -168,8 +166,6 @@ factory 解耦之所以 work，是因为它把"变的部分"（具体数据集�
 - **数据集（89 GB）**：见 [[PHM-Vibench数据集索引]]，不在本仓库内联。
 - **夸克备份镜像**：`博士毕业数据总仓库_202606/06_知识系统与自蒸馏OS/论文流水线/R00-phmfactory/`（代码）。
 - **开源镜像**：github.com/PHMbench/PHM-Vibench（公开，换机器失效时用）。
-
-> 上述源机器本地路径在换机器后会失效；以夸克备份 + 开源镜像 + `98_Private_LOCAL_勿提交` 为准。
 
 ---
 

@@ -7,6 +7,7 @@ status: growing
 visibility: public
 tags: [lesson, 写作方法论, Cover_Letter, Response_to_Reviewer, Rebuttal, 投稿, 期刊, 脱敏复盘]
 related: ["[[论文流水线5步法]]", "[[Publication_Map]]", "[[DEN_深度专家网络]]", "[[TON_透明算子网络]]", "[[TIFN_透明信息融合网络]]", "[[ADIG_早期代表作]]", "[[博士论文闭环closeout]]"]
+audience: junior
 ---
 
 # Response 与 Cover Letter 写作方法论
@@ -19,16 +20,26 @@ related: ["[[论文流水线5步法]]", "[[Publication_Map]]", "[[DEN_深度专�
 
 这一页只记**写作方法与结构**, 不收录任何 Response / Cover Letter / Reviewer Comments 原文——这些是投稿通信原件, 属敏感材料, 只在私有区留指针。本页是个人多篇论文 (DEN / TON / TIFN / ADIG, 跨 JMS / TII / INFFUS / RESS) 投稿返修经验的脱敏提炼。
 
+## 适合谁读
+
+如果你是清华机械系/相关方向的博士生, 第一次收到审稿意见不知道 Response 该怎么组织, 或者每次写 Cover Letter 都在复读摘要、不知道编辑到底想看什么, 这篇指南面向你。
+
+## 读完能做什么
+
+- 拿到审稿意见后, 按固定四段式 (引用原意 / 表态 / 修改位置 / 必要时反驳) 逐条写出审稿人能 30 秒确认的 Response。
+- 写出服务编辑的 Cover Letter (范围契合 + 增量贡献 + 重投时的改动概览), 不再与摘要逐字重复。
+- 避开"修改位置含糊""多条口径不一致""反驳语气失控"三个最常见的卡点。
+
 ## 场景
 
 博士期间 5 篇代表作 + 14 篇在投, 每篇都经历了完整投稿生命周期 (投稿-拒稿-重投-返修-录用-校样-发表), 含全部 Cover Letter、Response to Reviewer、Reviewer Comments。这种完整性在科研档案中较为罕见, 是 Cover Letter / Response 写作的活教材。
 
-## 当时的问题
+## 如果你第一次写 Response / Cover Letter, 先认清这两个坑
 
 - 第一次写 Response 时容易"逐条复述审稿意见 + 笼统说已修改", 没有点明改在论文哪里, 审稿人回查困难。
 - Cover Letter 容易写成论文摘要的复读, 没有传递"为什么这篇值得发表"的增量信号。
 
-## 为什么会发生
+## 为什么会卡在这
 
 - Response 的本质是**说服审稿人**, 而不是"汇报修改动作"; 混淆这两者会导致回复流于表面。
 - Cover Letter 的读者是**编辑** (决定送审/拒稿), 与摘要的读者 (研究者) 不同, 复读摘要无法传递编辑需要的"范围契合 + 增量贡献"信号。

@@ -48,7 +48,7 @@ related: [[博士论文结构总览], [毕业流程操作指南], [博士答辩�
 | worktree 快照 | `paper_worktree/`(2026-02-26/27) + `thesis-format-fix` 分支 | 格式修复分支不污染主线 |
 | 附录 prompt 工程 | `data/appendix_assets/{plan,reflect,reflector,report,execute,inquirer}_prompt.py` | 6 个脚本, 神经符号网络各阶段 prompt 模板 |
 
-> 大体积资产(主 PDF 94 MB、worktree 快照)只写路径指针, 不内联。
+> 敏感原件与大体积资产只写私有指针, 规则见 [[处理规范_脱敏与可见性]]。
 
 ---
 

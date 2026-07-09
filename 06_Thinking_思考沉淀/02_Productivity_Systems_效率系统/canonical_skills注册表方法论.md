@@ -6,6 +6,7 @@ type: legacy
 status: growing
 visibility: public
 tags: [canonical_skills, Agent, LQQL_OS, skill_registry, methodology]
+audience: junior
 related: ["[[LQQL_OS自蒸馏OS方法论]]", "[[对象分层与控制平面]]", "[[canonical_skills_index]]"]
 ---
 
@@ -193,12 +194,12 @@ darwin-loop 必须收束成"有边界的最小批次", 否则会失控消耗 tok
 
 ## 源码包指针
 
-- vault 内 canonical skills 真相源(私有, 跨设备同步): `敏感原件, 见 vault `.agents/skills/` (18 个 skill, 2.5 MB) 及 `INDEX.md` (16 KB 注册表)`。本页只记方法与结构, 不内联源码。
+- vault 内 canonical skills 真相源(私有, 跨设备同步): `.agents/skills/` (18 个 skill, 2.5 MB) 及 `INDEX.md` (16 KB 注册表)。本页只记方法与结构, 不内联源码。
 - LQQL OS 主仓库 skills: `LQQL_OS/.agents/skills/`(公开仓库内的 canonical center)。
 - 方法论与 repo-local workflow 映射源(私有): 见源卡片 019 引用的 `09_智能体开发/` 目录(方法论 + 工作流页)。
-- 桌面端全局 skills(私有): Codex 桌面端 `~/.agents/skills/`(53 个全局 skill, ~20 MB, 含本仓库 canonical skills 的镜像)。
+- 桌面端全局 skills(私有): Codex 桌面端全局 skills 目录(53 个全局 skill, ~20 MB, 含本仓库 canonical skills 的镜像)。
 
-> 路径中若含设备盘符或个人目录, 均为私有运行环境指针, 公开页不内联其内容。
+> 敏感原件与大体积资产只写私有指针, 规则见 [[处理规范_脱敏与可见性]]。
 
 ---
 
