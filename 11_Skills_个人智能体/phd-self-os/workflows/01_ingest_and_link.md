@@ -41,3 +41,5 @@ source: raw / meeting / email / memory / document
 
 ## 相关笔记
 ```
+
+完整摄入与整理流程见 [[处理规范_摄入与整理流程]]; frontmatter 规范见 [[处理规范_命名与模板与frontmatter]]。

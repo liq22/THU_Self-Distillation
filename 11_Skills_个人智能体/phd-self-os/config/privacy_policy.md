@@ -48,3 +48,5 @@ For mentors, collaborators, labmates, reviewers, students, administrators, and f
 - Avoid one-sided moral labeling.
 - Prefer: “这次互动暴露了流程问题/沟通问题/预期差异。”
 - Avoid: “某某就是……”
+
+完整脱敏与可见性规则见 [[处理规范_脱敏与可见性]]。
