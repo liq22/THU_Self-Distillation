@@ -33,7 +33,7 @@ related:
 
 ## 适合谁读
 
-- 即将毕业、要给导师 / 求职单位 / 国际合作者发主页和 CV 的博士生。
+- 清华机械系（或相关方向）即将毕业、要给导师 / 求职单位 / 国际合作者发主页和 CV 的博士生。
 - 想复用 jemdoc + Jekyll 学术主页模板、但不知道结构怎么组织的人。
 - 已经有主页和 CV、但版本失控（中英不同步 / 主页没跟上最新论文）的人。
 
@@ -61,7 +61,7 @@ related:
 | 站点 | 技术栈 | 职责 | 当前状态 |
 |---|---|---|---|
 | 主站 | jemdoc + `jemdoc.css` + `index.html` | 清华机械系官方个人主页（挂在系域名下），对外名片 | 对外正式入口 |
-| 个人站 | Jekyll（GitHub Pages，`Richie_Li.github.io-main` / `liq22.github.io`） | 个人学术博客 + Google Scholar 自动抓取 + 长期可迁移 | 工程化、可自动化 |
+| 个人站 | Jekyll（GitHub Pages，`Richie_Li.github.io-main` / `<user>.github.io`） | 个人学术博客 + Google Scholar 自动抓取 + 长期可迁移 | 工程化、可自动化 |
 
 **分工原则**：主站（jemdoc）求稳、求官方；个人站（Jekyll）求新、求自动、求可脱离学校环境。毕业后学校主页可能失效，长期身份资产要落到个人站 + GitHub。
 
