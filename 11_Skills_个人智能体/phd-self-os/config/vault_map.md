@@ -153,3 +153,12 @@ Use for note creation and normalization.
 ### `99_Archive_归档/`
 
 Use only after active folders are insufficient.
+
+## 2026-07-09 整理新增页
+
+自源仓库 os_cards/018（LQQL_OS 自蒸馏 OS）蒸馏进 `06_Thinking_思考沉淀/` 的方法论页：
+
+- [[LQQL_OS自蒸馏OS方法论]] — `06_Thinking_思考沉淀/02_Productivity_Systems_效率系统/`：Obsidian Life OS + Agent Skills + Spec-Driven 论文流水线三位一体方法论（对象分层+编号 / raw-compiled-schema-skill-dashboard 五层 / 渐进式读取 / fix 机制 / 任务后学习闭环）。
+- [[对象分层与控制平面]] — `06_Thinking_思考沉淀/01_Research_Philosophy_科研观/`：先分对象再分主题 / OS 是 control plane / 项目 repo 是 data plane 的科研治理观。
+
+两页互相 wikilink，并前向引用尚未建成的 [[canonical_skills注册表方法论]]、[[spec_driven论文写作工作流]]、[[学术主页自动化]]。
