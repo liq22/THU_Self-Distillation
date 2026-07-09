@@ -1,9 +1,12 @@
 ---
 title: 奖学金申请材料包模板
+created: 2026-05-08
+updated: 2026-05-08
 type: template
 status: seed
 visibility: internal
 tags: [award, application]
+related: []
 ---
 
 # 奖学金申请材料包模板

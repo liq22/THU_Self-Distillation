@@ -1,6 +1,8 @@
 ---
 title: 
-date: 2026-05-08
+created: 2026-05-08
+updated: 2026-05-08
+date: 2026-05-08 # alias, 保留兼容
 type: feedback
 status: growing
 visibility: private
@@ -8,6 +10,7 @@ tags: [feedback]
 source: advisor # advisor | peer | reviewer | self | audience
 related_project: 
 related_paper: 
+related: [] # 统一指向关联项目/论文/会议
 ---
 
 # 反馈记录

@@ -1,9 +1,12 @@
 ---
 title: 博士毕业手续清单模板
+created: 2026-05-08
+updated: 2026-05-08
 type: template
 status: seed
 visibility: internal
 tags: [thesis, graduation]
+related: []
 ---
 
 # 博士毕业手续清单模板

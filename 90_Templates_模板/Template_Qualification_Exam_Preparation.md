@@ -1,9 +1,12 @@
 ---
 title: 博士资格考试准备模板
+created: 2026-05-08
+updated: 2026-05-08
 type: template
 status: seed
 visibility: internal
 tags: [qualification-exam]
+related: []
 ---
 
 # 博士资格考试准备模板

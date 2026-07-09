@@ -1,5 +1,7 @@
 ---
 title: 
+created: 2026-05-08
+updated: 2026-05-08
 authors: 
 year: 
 venue: 
@@ -9,6 +11,7 @@ type: paper-note
 status: seed
 visibility: private
 tags: [paper]
+related: [] # 统一指向关联项目/代码/数据/实验
 related_projects: []
 ---
 

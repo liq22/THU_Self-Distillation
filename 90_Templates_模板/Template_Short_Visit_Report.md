@@ -1,9 +1,12 @@
 ---
 title: 短期出国境访学总结模板
+created: 2026-05-08
+updated: 2026-05-08
 type: template
 status: seed
 visibility: internal
 tags: [short-visit]
+related: []
 ---
 
 # 短期出国境访学总结模板

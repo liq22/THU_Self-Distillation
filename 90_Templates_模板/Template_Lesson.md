@@ -1,6 +1,8 @@
 ---
 title: 
-date: 2026-05-08
+created: 2026-05-08
+updated: 2026-05-08
+date: 2026-05-08 # alias, 保留兼容
 type: lesson
 status: growing
 visibility: internal

@@ -1,9 +1,12 @@
 ---
 title: 
+created: 2026-05-08
+updated: 2026-05-08
 type: thesis-chapter
 status: seed
 visibility: private
 tags: [thesis]
+related: [] # 统一指向关联论文/项目/实验/数据
 related_projects: []
 related_papers: []
 ---

@@ -1,11 +1,13 @@
 ---
 title: 
 created: 2026-05-08
+updated: 2026-05-08
 type: legacy-guide
 status: seed
 visibility: internal
 tags: [legacy]
 audience: junior
+related: []
 ---
 
 # 指南标题

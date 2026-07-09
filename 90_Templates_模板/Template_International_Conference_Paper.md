@@ -1,9 +1,12 @@
 ---
 title: 国际会议论文准备模板
+created: 2026-05-08
+updated: 2026-05-08
 type: template
 status: seed
 visibility: internal
 tags: [conference, paper]
+related: []
 ---
 
 # 国际会议论文准备模板

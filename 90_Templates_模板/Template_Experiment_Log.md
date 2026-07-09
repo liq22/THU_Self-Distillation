@@ -1,11 +1,14 @@
 ---
 title: 
-date: 2026-05-08
+created: 2026-05-08
+updated: 2026-05-08
+date: 2026-05-08 # alias, 保留兼容
 type: experiment
 status: seed
 visibility: private
 tags: [experiment]
 related_project: 
+related: [] # 指向关联项目/论文/数据
 ---
 
 # 实验记录

@@ -1,12 +1,15 @@
 ---
 title: 
-date: 2026-05-08
+created: 2026-05-08
+updated: 2026-05-08
+date: 2026-05-08 # alias, 保留兼容
 type: meeting
 status: growing
 visibility: private
 tags: [meeting]
 participants: []
 related_projects: []
+related: [] # 指向关联项目/论文/反馈
 ---
 
 # 会议主题

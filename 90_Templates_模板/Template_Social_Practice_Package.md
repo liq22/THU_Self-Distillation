@@ -1,9 +1,12 @@
 ---
 title: 社会实践材料包模板
+created: 2026-05-08
+updated: 2026-05-08
 type: template
 status: seed
 visibility: internal
 tags: [social-practice]
+related: []
 ---
 
 # 社会实践材料包模板

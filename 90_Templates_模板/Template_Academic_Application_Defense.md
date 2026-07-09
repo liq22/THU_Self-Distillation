@@ -1,9 +1,12 @@
 ---
 title: 学术岗位申请答辩模板
+created: 2026-05-08
+updated: 2026-05-08
 type: template
 status: seed
 visibility: internal
 tags: [career, application]
+related: []
 ---
 
 # 学术岗位申请答辩模板

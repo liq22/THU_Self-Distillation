@@ -6,6 +6,7 @@ type: project
 status: seed
 visibility: private
 tags: [project]
+related: [] # 统一指向关联论文/代码/数据/实验
 related_papers: []
 related_code: []
 related_data: []
