@@ -1,0 +1,37 @@
+src_path,dst_path_quark,size_bytes,score,domain,os_card,notes
+"/mnt/d/paper/thesis/定稿/D-机械系博士学位论文-李奇.pdf","博士毕业数据总仓库_202606/01_毕业论文与学位材料/博士论文定稿/",45000000,S,01_thesis,013,学位闭环最终凭证 不可再生 唯一定稿
+"/mnt/d/paper/thesis/LQ_<学号_redacted>_thesis.pdf","博士毕业数据总仓库_202606/01_毕业论文与学位材料/博士论文主PDF/",97820012,S,01_thesis,013,LaTeX最新编译版 2026-06-04 与定稿双件
+"/mnt/d/paper/thesis/_reviewer_pro/","博士毕业数据总仓库_202606/01_毕业论文与学位材料/审稿打磨/",3000000,S,01_thesis,010,审稿意见+对应修改记录
+"/mnt/d/paper/thesis/data/","博士毕业数据总仓库_202606/01_毕业论文与学位材料/02_LaTeX源码/",2000000,S,01_thesis,010,chap01-7.tex+abstract.tex+setup
+"/mnt/d/paper/thesis/thusetup.tex","博士毕业数据总仓库_202606/01_毕业论文与学位材料/02_LaTeX源码/",100000,S,01_thesis,010,主配置
+"/mnt/d/paper/thesis/LQ_<学号_redacted>_thesis.tex","博士毕业数据总仓库_202606/01_毕业论文与学位材料/02_LaTeX源码/",5000,S,01_thesis,010,主入口tex
+"/mnt/d/paper/thesis/ref/refs.bib","博士毕业数据总仓库_202606/01_毕业论文与学位材料/02_LaTeX源码/",800000,S,01_thesis,010,参考文献
+"/mnt/d/paper/thesis/script/compile.sh","博士毕业数据总仓库_202606/01_毕业论文与学位材料/02_LaTeX源码/",2000,S,01_thesis,010,编译脚本
+"/mnt/k/申请答辩/毕业答辩V5.pptx","博士毕业数据总仓库_202606/06_答辩PPT/",59354756,S,01_thesis,011,最终答辩PPT 2026-06-02
+"/mnt/k/2_work/win_download/毕业答辩V2.pptx","博士毕业数据总仓库_202606/06_答辩PPT/历史版本/",119588607,A,01_thesis,011,V2大版本含全部动画
+"/mnt/k/5_other/Download/a_feishu/毕业答辩V3.pptx","博士毕业数据总仓库_202606/06_答辩PPT/历史版本/",71351188,A,01_thesis,011,V3飞书版本
+"/mnt/k/申请答辩/毕业答辩V4.2.pptx","博士毕业数据总仓库_202606/06_答辩PPT/历史版本/",72772122,A,01_thesis,011,V4.2 答辩前
+"/mnt/k/申请答辩/毕业答辩V4.3.pptx","博士毕业数据总仓库_202606/06_答辩PPT/历史版本/",67240002,A,01_thesis,011,V4.3 终稿前
+"/mnt/k/3.18/PPT.MOV","博士毕业数据总仓库_202606/01_毕业论文与学位材料/答辩录像/",2200000000,S,07_media,007,2.12GB 答辩录像
+"/mnt/k/3.18/voice.mp4","博士毕业数据总仓库_202606/01_毕业论文与学位材料/答辩录像/",1300000000,S,07_media,007,1.21GB 答辩音频
+"/mnt/k/3.18/*.srt","博士毕业数据总仓库_202606/01_毕业论文与学位材料/答辩录像/字幕/",200000,S,07_media,007,19个SRT字幕
+"/mnt/k/2_work/win_download/答辩后学位论文修改说明_签字版.docx","博士毕业数据总仓库_202606/07_答辩申请/",500000,S,01_thesis,011,签字版修改说明
+"/mnt/k/申请答辩/博士论文答辩申请书.docx","博士毕业数据总仓库_202606/07_答辩申请/",300000,S,01_thesis,011,申请书
+"/mnt/d/paper/thesis/LQ/小论文正式版/","博士毕业数据总仓库_202606/01_毕业论文与学位材料/发表小论文/",80000000,S,02_papers,012,5篇已发+14篇在投PDF
+"/mnt/d/paper/thesis/LQ/小论文tex版/","博士毕业数据总仓库_202606/01_毕业论文与学位材料/发表小论文源码/",40000000,S,02_papers,012,小论文LaTeX源
+"/mnt/d/paper/thesis/LQ/李奇_简历2025_10_21.pdf","博士毕业数据总仓库_202606/05_个人行政与证明/CV/",2000000,S,05_personal,020,CV v2.4主版
+"/mnt/k/博士后/进站材料/","博士毕业数据总仓库_202606/05_个人行政与证明/博后进站/",23000000,S,05_personal,005,进站24文件
+"/mnt/k/申请答辩/优秀毕业生申请_李奇6.pptx","博士毕业数据总仓库_202606/05_个人行政与证明/优秀毕业生/",5000000,S,05_personal,005,优秀毕业生申请
+"/mnt/c/Users/Administrator/Zotero/zotero.sqlite","博士毕业数据总仓库_202606/01_毕业论文与学位材料/参考文献库/",300000000,S,02_papers,012,Zotero文献库索引
+"/mnt/c/Users/Administrator/Zotero/storage/","博士毕业数据总仓库_202606/01_毕业论文与学位材料/参考文献库/storage/",2000000000,S,02_papers,012,Zotero PDF附件
+"/mnt/d/drive/OneDrive - mails.tsinghua.edu.cn/_博科研_Richie/10.project/1_DSN/7_FD会议TII/1、重投/TII_TON_final.pdf","博士毕业数据总仓库_202606/01_毕业论文与学位材料/发表小论文/TII_TON/",26981677,S,02_papers,012,TON最终版
+"/mnt/k/2_work/win_download/6-5审稿/11-tii2/TII-26-5183_Proof_hi.pdf","博士毕业数据总仓库_202606/01_毕业论文与学位材料/发表小论文/TII2/",1396040,S,02_papers,012,TII-26-5183 proof
+"/mnt/k/2_work/win_download/6-5审稿/8-tii-fromqin/TII-26-4340_Proof_hi.pdf","博士毕业数据总仓库_202606/01_毕业论文与学位材料/发表小论文/TII2/",1402707,S,02_papers,012,TII-26-4340 proof
+"/mnt/k/2_work/win_download/TII-26-1770_Proof_hi.pdf","博士毕业数据总仓库_202606/01_毕业论文与学位材料/发表小论文/TII2/",18762036,S,02_papers,012,TII-26-1770 proof
+"/home/richie_thu/Richie1/homepage/","博士毕业数据总仓库_202606/06_知识系统与自蒸馏OS/个人主页/",10000000,S,05_personal,020,jemdoc个人主页源
+"/mnt/k/2_work/LQQL_OS/.agents/skills/","博士毕业数据总仓库_202606/06_知识系统与自蒸馏OS/canonical_skills/",2500000,S,06_os,019,18个canonical skill
+"/mnt/c/Users/Administrator/.agents/skills/","博士毕业数据总仓库_202606/06_知识系统与自蒸馏OS/全局skills库/",20000000,S,06_os,019,53个Codex skill全局
+"/home/richie_thu/project_report/","博士毕业数据总仓库_202606/06_知识系统与自蒸馏OS/project_report/",124000,S,06_os,018,WSL主目录盘点
+"/mnt/d/paper/thesis/AGENTS.md","博士毕业数据总仓库_202606/06_知识系统与自蒸馏OS/thesis_仓库_agent配置/",5000,S,06_os,010,thesis agent
+"/mnt/d/paper/thesis/CLAUDE.md","博士毕业数据总仓库_202606/06_知识系统与自蒸馏OS/thesis_仓库_agent配置/",8000,S,06_os,010,thesis claude
+"/mnt/k/2_work/win_download/博士学位论文评阅程序及写作格式要求(20260305).pdf","博士毕业数据总仓库_202606/01_毕业论文与学位材料/写作要求/",4777316,A,01_thesis,013,论文写作要求

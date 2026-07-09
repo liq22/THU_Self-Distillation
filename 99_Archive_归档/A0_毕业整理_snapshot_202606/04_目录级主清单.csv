@@ -1,0 +1,56 @@
+﻿资产ID,评分,资产域,原路径,目录名,总大小_GB,文件数量,最近修改时间,主要内容,建议保留范围,建议排除范围,是否需要拆分上传,建议夸克路径,是否进入OS,处理方式,理由,备注
+D001,S,01_thesis,/mnt/d/paper/thesis/,thesis,2.0,200,2026-06-04,博士论文 LaTeX + 定稿 PDF,定稿/ + data/ + ref/ + script/,_build/ *.aux *.log,是,01_毕业论文与学位材料/,是,rsync,S 级学位闭环,学位闭环
+D002,S,01_thesis,/mnt/k/申请答辩/,申请答辩,0.5,30,2026-06-02,答辩 PPT V4-V5 + 申请书,V4.2/V4.3/V5 + 申请书,,否,06_答辩PPT/,是,rsync,S 答辩,
+D003,S,07_media,/mnt/k/3.18/,3.18,4.0,25,2026-06-03,答辩录像 PPT.MOV + voice.mp4 + 19 SRT,PPT.MOV voice.mp4 *.srt,,否,01_毕业论文与学位材料/答辩录像/,是,rsync,S 录像,
+D004,S,02_papers,/mnt/d/paper/thesis/LQ/,LQ 小论文,0.5,100,2026-04-15,5 已发 + 14 在投小论文 PDF + tex,小论文正式版/ 小论文tex版/,,是,01_毕业论文与学位材料/发表小论文/,是,rsync,S 论文,
+D005,A,03_code,/mnt/d/paper/paper_25_9_vibench/,ViBench 论文项目,0.18,200,2026-06-08,ViBench 论文项目源,.claude/Doc/ + paper/,.git/,是,02_科研项目与代码/ViBench论文项目/,是,rsync --exclude .git,A 论文项目,
+D006,A,03_code,/mnt/k/2_work/7_11ICASSP/,7_11ICASSP,15.0,5000,2026-04-10,Deep Koopman + NSNet 代码,src/ data/ configs/,checkpoints/ wandb/ .conda/,是,02_科研项目与代码/7_11ICASSP/,否,rsync 排除,A 代码,
+D007,A,03_code,/mnt/k/2_work/liki/,liki 个人代码库,17.0,8000,2026-05-20,ADG1/JADA/SNDA/CCNN,src/ data/,checkpoints/ wandb/,是,02_科研项目与代码/liki_个人代码库/,否,rsync 排除,A 代码,
+D008,A,03_code,/mnt/k/2_work/7_12Moe/,7_12Moe,12.0,4000,2026-04-01,MoE 项目,src/,checkpoints/ wandb/ .conda/,是,02_科研项目与代码/7_12Moe/,否,rsync 排除,A 代码,
+D009,A,03_code,/mnt/k/2_work/7_RL/,7_RL AlphaGen,23.0,6000,2026-04-15,AlphaGen RL 项目,src/,checkpoints/,是,02_科研项目与代码/7_RL_AlphaGen/,否,rsync 排除,A 代码,
+D010,A,03_code,/mnt/k/2_work/7_13logic/,7_13logic 神经符号,5.3,3000,2026-05-10,神经符号逻辑 (含 .git),全部,checkpoints/,是,02_科研项目与代码/7_13logic_神经符号/,否,git bundle + rsync,A 代码,
+D011,B,03_code,/mnt/k/2_work/9_past/,9_past 历史项目,30.0,10000,2025-12-01,历史项目归档,主要源码,checkpoints/ wandb/ 大数据,是,02_科研项目与代码/历史项目归档/,否,rsync 排除,B 历史,
+D012,S,06_os,/mnt/k/2_work/LQQL_OS/,LQQL_OS 全仓,9.2,30000,2026-06-07,Obsidian Life OS,lqql_*/ 01_日记/.agents/,.codex/.env,是,06_知识系统与自蒸馏OS/LQQL_OS_全仓/,是,rsync 排除 .env,S OS,
+D013,A,03_code,/mnt/k/2_work/TII_TON_archives/,TII_TON 图归档,1.3,500,2024-02-11,TII TON 论文图,figs/,,否,02_科研项目与代码/TII_TON_archives/,否,rsync,A 图,
+D014,A,03_code,/home/richie_thu/_Richie_project/,_Richie_project WSL,21.0,2000,2026-04-20,WSL PHM 项目,competition/ ADAG/,dataset/ Deep symbolic net/,是,02_科研项目与代码/_Richie_project_WSL/,否,rsync 排除大数据,A WSL,
+D015,A,05_personal,/home/richie_thu/Richie1/,Richie1 homepage,3.6,1000,2026-04-15,homepage + deep-symbolic-optimization,homepage/,deep-symbolic-optimization/dso/baselines/eureqa/credentials.json,是,06_知识系统与自蒸馏OS/个人主页/,是,rsync 排除敏感,A,
+D016,B,03_code,/mnt/d/code/,d_code 学习,0.735,200,2026-03-10,学习参考代码,study/,,否,02_科研项目与代码/d_code学习/,否,rsync,B 学习,
+D017,A,04_data,/mnt/k/D01_vibench/,D01_vibench 数据集,89.0,100,2026-05-15,89GB 16 个 HDF5 + metadata,*.h5 metadata/,,是,03_实验数据与结果/vibench/,否,rsync 分批,A 数据,
+D018,B,04_data,/mnt/k/yale_data/,yale_data,2.3,50,2026-04-01,Yale 数据,全部,,否,03_实验数据与结果/yale/,否,rsync,B 数据,
+D019,B,04_data,/mnt/k/2_work/2_实验过程性/,实验过程性,41.0,5000,2026-05-01,实验过程,日志/results/,wandb/ cache/,是,03_实验数据与结果/实验过程性/,否,rsync 排除,B 数据,
+D020,B,04_data,/mnt/k/2_work/3_dataset/,3_dataset,9.3,200,2026-04-15,DIRG/挑战赛/PV,全部,,是,03_实验数据与结果/3_dataset/,否,rsync,B 数据,
+D021,B,04_data,/mnt/d/科研数据/,科研数据 D 盘,0.4,50,2026-04-20,DIRG/挑战赛/PV,全部,,否,03_实验数据与结果/科研数据_d盘/,否,rsync,B 数据,
+D022,A,01_thesis,/mnt/d/paper/thesis/backups/,论文版本历史,1.4,80,2026-05-01,论文版本历史,全部,,否,01_毕业论文与学位材料/论文版本历史/,否,rsync,A 历史,
+D023,S,02_papers,/mnt/c/Users/Administrator/Zotero/,Zotero 文献库,2.3,5000,2026-06-08,Zotero 索引 + storage PDF,zotero.sqlite storage/,,是,01_毕业论文与学位材料/参考文献库/,是,rsync,S 文献,
+D024,S,05_personal,/mnt/k/博士后/进站材料/,博后进站,0.022,24,2026-04-15,进站 24 文件,全部,*身份证* *户口* (加密单独),否,05_个人行政与证明/博后进站/,是,加密 + rsync,S,
+D025,B,02_papers,/mnt/k/2_work/win_download/,win_download,5.0,200,2026-06-07,Windows 下载,审稿包/ 论文文献/,,是,04_原始下载归档/win_download/,否,rsync,B 归档,
+D026,B,02_papers,/mnt/k/5_other/Download/,5_other Download,3.0,500,2026-12-30,5_other 下载,MSSP/YMSSP PDF,,是,04_原始下载归档/,否,rsync,B 归档,
+D027,B,02_papers,/mnt/d/drive/OneDrive - mails.tsinghua.edu.cn/_博科研_Richie/,Onedrive 博科研,5.0,5000,2026-06-08,OneDrive 备份,10.project/ zotero_files/,,是,04_原始备份索引/Onedrive备份/,否,rsync,B 备份,
+D028,C,04_data,/mnt/e/202303*/,TB 日志 (E 盘),1.0,600,2024-04-01,TensorBoard 日志,,,是,03_实验数据与结果/TB日志归档/,否,rsync,C 日志,可删
+D029,D,07_media,/mnt/d/ProgramData/Quark/videoCache/,Quark 视频缓存,5.7,1000,2026-06-08,夸克视频缓存,,全部,否,,否,不传 删除,缓存,可释放
+D030,D,08_env,/home/richie_thu/.cache/,WSL .cache,65.0,50000,2026-06-08,wandb + pip 缓存,,全部,否,,否,不传 删除,缓存,可释放
+D031,D,08_env,/home/richie_thu/miniconda3/,miniconda3,81.0,100000,2026-06-08,conda envs 整盘,,全部 (改用 export),否,_envs/conda_envs_exported/,否,export 后不传整盘,环境,可释放整盘
+D032,D,08_env,/mnt/e/wsl/Ubuntu20/ext4.vhdx,ext4.vhdx WSL 整盘,248.0,1,2026-06-08,WSL 整盘镜像,,,否,,否,不传 单独压缩,镜像,单独处理
+D033,S,05_personal,/mnt/c/Users/Administrator/.ssh/,SSH 目录 (含私钥),0.001,8,2025-11-21,SSH 私钥 + 公钥 + known_hosts,*.pub known_hosts,id_rsa *.pem,否,_quarantine/SSH/,否,隔离 加密,S 敏感,绝不上传
+D034,A,03_code,/mnt/k/2_work/win_download/logic_multichannel_bundle_v2/,NSNet logic bundle v2,0.2,50,2026-03-23,NSNet + logic bundle,src/,,否,02_科研项目与代码/nsnet_logic_bundle_v2/,否,rsync,A,
+D035,A,02_papers,/mnt/k/2_work/win_download/6-5审稿/,6-5审稿,0.05,30,2026-06-07,审稿过程包,11-tii2/ 8-tii-fromqin/,,否,01_毕业论文与学位材料/发表小论文/审稿过程/,否,rsync,A,
+D036,B,02_papers,/mnt/k/2_work/win_download/论文文献更新包_20260325_v3/,论文文献更新包 v3,0.2,50,2026-03-25,文献更新包,guidelines/ 文献PDF,,否,01_毕业论文与学位材料/参考文献库/更新包/,否,rsync,B,
+D037,C,01_thesis,/mnt/d/paper_worktree/,paper_worktree,0.5,80,2026-04-01,paper worktree,,全部,否,01_毕业论文与学位材料/paper_worktree/,否,可选,C,可选
+D038,S,05_personal,/mnt/c/Users/Administrator/AppData/Local/Microsoft/Credentials/,Windows Vault,0.001,20,2026-06-08,Windows 凭据管理器,,全部,否,_quarantine/WindowsVault/,否,隔离 加密,S 敏感,绝不上传
+D039,S,05_personal,/mnt/c/Users/Administrator/.codex/,Codex 配置,0.005,10,2026-06-01,Codex CLI 配置 + auth,,auth.json sandbox-secrets,否,_quarantine/Codex/,否,隔离,S 敏感,绝不上传
+D040,C,03_code,/mnt/k/2_work/7_12Moe/IFfigs/,7_12Moe IFfigs,0.05,100,2025-12-21,IF 图素材,素材/,,否,02_科研项目与代码/7_12Moe/IFfigs/,否,rsync,C,
+D041,A,02_papers,/mnt/d/drive/OneDrive - mails.tsinghua.edu.cn/_博科研_Richie/10.project/1_DSN/7_FD会议TII/,TII_TON 项目源,1.0,200,2023-12-25,TII TON 项目,1、重投/ 3_final/,,是,01_毕业论文与学位材料/发表小论文/TII_TON_项目源/,否,rsync,A,
+D042,B,03_code,/mnt/k/2_work/win_download/nsnet_logic_bundle/,nsnet logic bundle,0.2,50,2026-03-23,NSNet logic bundle,01_source_code/,,否,02_科研项目与代码/nsnet_logic_bundle/,否,rsync,B,
+D043,B,03_code,/mnt/d/code/study/,d_code study,0.2,30,2026-03-10,学习参考代码,Probabilistic_RUL_*/ Stacked-DCNN-*/,data/,否,02_科研项目与代码/学习参考/,否,rsync 排除,B,
+D044,S,06_os,/mnt/c/Users/Administrator/.agents/skills/,全局 skills 库,0.02,100,2026-06-08,53 个 Codex skill,全部,,否,06_知识系统与自蒸馏OS/全局skills库/,是,rsync,S,
+D045,S,06_os,/home/richie_thu/project_report/,project_report,0.0001,5,2026-06-08,WSL 主目录盘点,全部,,否,06_知识系统与自蒸馏OS/project_report/,是,rsync,S,
+D046,S,01_thesis,/mnt/d/paper/thesis/_reviewer_pro/,_reviewer_pro,0.003,50,2026-06-04,审稿意见 + 对应修改,全部,,否,01_毕业论文与学位材料/审稿打磨/,是,rsync,S,
+D047,S,01_thesis,/mnt/d/paper/thesis/data/,thesis data,0.002,10,2026-06-04,chap01-7.tex + abstract.tex,全部,*.aux *.log,否,01_毕业论文与学位材料/02_LaTeX源码/,是,rsync,S,
+D048,S,06_os,/mnt/k/2_work/LQQL_OS/.agents/skills/,canonical_skills,0.0025,100,2026-06-07,18 个 canonical skill,全部,,否,06_知识系统与自蒸馏OS/canonical_skills/,是,rsync,S,
+D049,A,06_os,/mnt/k/2_work/LQQL_OS/lqql_06_工作与项目/03_论文流水线/R00-phmfactory/,R00-phmfactory,6.4,2000,2026-05-10,phmfactory 代码仓库,src/ dev/ data/,checkpoints/ .env,是,06_知识系统与自蒸馏OS/论文流水线/R00-phmfactory/,否,rsync 排除,A,
+D050,A,06_os,/mnt/k/2_work/LQQL_OS/lqql_06_工作与项目/03_论文流水线/P03_nesy_phm_review/,P03_nesy_phm_review,0.328,200,2026-05-20,神经符号 PHM 综述,paper/ ref/ specs/,,否,06_知识系统与自蒸馏OS/论文流水线/P03_nesy_phm_review/,是,rsync,A,
+D051,D,08_env,/mnt/d/ProgramData/Quark/,ProgramData Quark,6.0,2000,2026-06-08,夸克程序数据 + videoCache,,videoCache/ 整体,否,,否,不传,软件,可清理
+D052,D,08_env,/mnt/c/Users/Administrator/AppData/Local/Steam/,Steam,5.0,5000,2026-06-08,Steam 游戏 + 缓存,,全部,否,,否,不传,游戏,可释放
+D053,D,08_env,/mnt/k/$RECYCLE.BIN/,K 回收站,0.5,100,2026-06-08,K 盘回收站,,全部,否,,否,不传,回收站,可清空
+D054,D,08_env,/mnt/k/360RecycleBin/,360 回收站,0.5,100,2026-06-08,360 回收站,,全部,否,,否,不传,回收站,可清空
+D055,S,05_personal,/mnt/c/Users/Administrator/.gemini/,Gemini Antigravity,0.1,1000,2026-06-08,Antigravity 内嵌 Chromium,,Login Data Web Data,否,_quarantine/,否,隔离,S 敏感,

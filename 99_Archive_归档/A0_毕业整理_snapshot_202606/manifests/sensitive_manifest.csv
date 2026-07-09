@@ -1,0 +1,52 @@
+src_path,type,risk_level,action,encrypt_required,notes
+"/mnt/c/Users/Administrator/.ssh/id_rsa",SSH私钥,高,单独存储绝不上传,否,RSA Windows主版本
+"/home/richie_thu/.ssh/id_rsa",SSH私钥,高,单独存储绝不上传,否,RSA WSL版本
+"/home/richie_thu/.ssh/id_ed25519",SSH私钥,高,单独存储绝不上传,否,Ed25519 WSL
+"/mnt/c/Users/Administrator/.ssh/Lq2511.pem",PEM证书,高,单独存储绝不上传,否,Lq2511云服务器
+"/mnt/k/5_other/Download/Lq2511.pem",PEM证书,高,不上传重复,否,Lq2511副本
+"/mnt/k/5_other/Download/Lq2511 (1).pem",PEM证书,高,不上传重复,否,Lq2511第二副本
+"/mnt/k/5_other/Download/LightsailDefaultKey-us-west-2.pem",PEM证书,高,单独存储绝不上传,否,AWS Lightsail
+"/home/richie_thu/.netrc",API Token,高,绝不上传,否,W&B Token
+"/mnt/k/2_work/LQQL_OS/.codex/.env",env,高,LQQL_OS上传时排除,否,Codex/OpenAI API Key
+"/mnt/k/2_work/LQQL_OS/lqql_06_工作与项目/03_论文流水线/P02_agent_langraph/.env",env,高,项目上传时排除,否,项目级密钥
+"/mnt/k/5_other/Download/a_feishu/PHMGA-NVTA_2025_Version/PHMGA-NVTA_2025_Version/.env",env,中,人工确认后处理,否,第三方模板可能含示例token
+"/mnt/c/Users/Administrator/.antigravity_cockpit/credentials.json",API Token,高,绝不上传,否,Antigravity OAuth
+"/mnt/c/Users/Administrator/.streamlit/credentials.toml",API Token,中,绝不上传,否,Streamlit Cloud
+"/mnt/c/Users/Administrator/.modelscope/credentials/session",API Token,中,绝不上传,否,ModelScope Session
+"/mnt/c/Users/Administrator/.codex/auth.json",API Token,高,绝不上传,否,Codex OAuth refresh token
+"/home/richie_thu/Richie1/deep-symbolic-optimization/dso/dso/baselines/eureqa/credentials.json",API Token,低,排查后排除,否,Eureqa废弃项目
+"/mnt/d/drive/OneDrive - mails.tsinghua.edu.cn/_博科研_Richie/998 电池/AIR服务器转移/SR/deep-symbolic-optimization/dso/dso/baselines/eureqa/credentials.json",API Token,低,与C9同源可忽略,否,Eureqa OneDrive副本
+"/home/richie_thu/.docker/.token_seed",Docker凭证,中,绝不上传,否,Docker Hub种子
+"/home/richie_thu/.docker/config.json",Docker凭证,低,可上传空{},否,内容为空
+"/home/richie_thu/.docker/scan/config.json",Docker凭证,中,绝不上传,否,Docker Snyk
+"/home/richie_thu/.local/share/jupyter/notebook_secret",Jupyter Secret,中,绝不上传,否,Notebook密钥
+"/home/richie_thu/.local/share/jupyter/runtime/notebook_cookie_secret",Jupyter Secret,中,绝不上传,否,Cookie密钥
+"/mnt/c/Users/Administrator/.codex/.sandbox-secrets/sandbox_users.json",Codex凭证,高,绝不上传,否,沙箱用户映射
+"/mnt/c/Users/Administrator/.openclaw/identity/device-auth.json",设备认证,中,绝不上传,否,OpenClaw设备身份
+"/mnt/c/Users/Administrator/.docker/scan/config.json",Docker凭证,中,绝不上传,否,Windows Docker Snyk
+"/mnt/c/Users/Administrator/.docker/devenvironments/data.json",Docker凭证,低,可上传空{},否,内容为空
+"/mnt/c/Users/Administrator/.qclaw/openclaw.json",QQCLAW,中,绝不上传,否,QQCLAW配置
+"/mnt/c/Users/Administrator/.chatgpt/chat.conf.json",API Token,中,绝不上传,否,2023 ChatGPT CLI
+"/home/richie_thu/.pki/nssdb/key4.db",NSS密钥库,中,仅本地保留,是,NSS主密码
+"/mnt/c/Users/Administrator/.gemini/antigravity-browser-profile/Default/Login Data",Chromium密码,高,绝不上传,是,DPAPI加密
+"/mnt/c/Users/Administrator/.gemini/antigravity-browser-profile/Default/Web Data",Chromium表单,高,绝不上传,是,自动填充信息
+"/mnt/c/Users/Administrator/AppData/Local/Microsoft/Credentials/*",Windows Vault,高,绝不上传,是,20+ RDP/网络凭据
+"/mnt/c/Users/Administrator/AppData/Local/Quark/User Data/Default/Login Data",Quark密码,高,绝不上传,是,夸克浏览器密码
+"/mnt/c/Users/Administrator/AppData/Local/Quark/User Data/Default/Network/Cookies",Quark Cookies,高,绝不上传,是,夸克网盘session
+"/mnt/c/Users/Administrator/AppData/Local/bigjpg/User Data/Default/Login Data",bigjpg密码,中,绝不上传,是,bigjpg密码
+"/mnt/c/Users/Administrator/AppData/Local/Steam/htmlcache/Default/Login Data",Steam密码,中,绝不上传,是,Steam密码
+"/mnt/d/drive/OneDrive - mails.tsinghua.edu.cn/_博工作_Richie/999 博士入学/1. 入学文件/李奇 身份证.pdf",身份证,高,加密包,是,身份证主版本
+"/mnt/d/drive/OneDrive - mails.tsinghua.edu.cn/_博工作_Richie/999 博士入学/1. 入学文件/李奇 身份证.png",身份证,高,加密包,是,身份证PNG
+"/mnt/d/drive/OneDrive - mails.tsinghua.edu.cn/_博工作_Richie/999 博士入学/1. 入学文件/身份证.jpg",身份证,高,加密包,是,身份证历史版本
+"/mnt/k/博士后/进站材料/*户口本*.pdf",户口本,高,加密包,是,户口本扫描件
+"/mnt/k/博士后/进站材料/*学生证*.pdf",学生证,中,加密包,是,学生证扫描
+"/mnt/k/博士后/进站材料/*学位证*.pdf",学位证,中,加密包,是,学位证
+"/mnt/k/博士后/进站材料/*毕业证*.pdf",毕业证,中,加密包,是,毕业证
+"/mnt/k/博士后/进站材料/*成绩单*.pdf",成绩单,中,加密包,是,成绩单
+"/mnt/k/申请答辩/*签字*.pdf",电子签名,高,加密包,是,王老师签字
+"/mnt/k/2_work/win_download/*银行流水*.pdf",财务凭证,高,加密包,是,银行流水
+"/mnt/k/2_work/win_download/*支付宝*.pdf",财务凭证,高,加密包,是,支付宝账单
+"/mnt/k/2_work/win_download/*微信*.pdf",财务凭证,高,加密包,是,微信账单
+"/mnt/d/drive/OneDrive - mails.tsinghua.edu.cn/_博工作_Richie/999 博士入学/*入学文件*",证件扫描,高,加密包,是,博士入学整套
+"/mnt/d/paper/thesis/LQ/李奇_签名*.png",电子签名,中,加密包,是,个人签名图
+"/mnt/c/Users/Administrator/.kube/config",K8s凭证,中,绝不上传,否,可能存在K8s配置

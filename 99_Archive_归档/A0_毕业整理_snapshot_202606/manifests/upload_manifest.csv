@@ -1,0 +1,113 @@
+src_path,dst_path_quark,size_bytes,score,domain,batch_id,notes
+/mnt/d/paper/thesis/定稿/D-机械系博士学位论文-李奇.pdf,博士毕业数据总仓库_202606/01_毕业论文与学位材料/博士论文定稿/,45000000,S,01_thesis,B01,学位闭环最终凭证 不可再生 唯一定稿
+/mnt/d/paper/thesis/LQ_<学号_redacted>_thesis.pdf,博士毕业数据总仓库_202606/01_毕业论文与学位材料/博士论文主PDF/,97820012,S,01_thesis,B01,LaTeX最新编译版 2026-06-04 与定稿双件
+/mnt/d/paper/thesis/_reviewer_pro/,博士毕业数据总仓库_202606/01_毕业论文与学位材料/审稿打磨/,3000000,S,01_thesis,B01,审稿意见+对应修改记录
+/mnt/d/paper/thesis/data/,博士毕业数据总仓库_202606/01_毕业论文与学位材料/02_LaTeX源码/,2000000,S,01_thesis,B01,chap01-7.tex+abstract.tex+setup
+/mnt/d/paper/thesis/thusetup.tex,博士毕业数据总仓库_202606/01_毕业论文与学位材料/02_LaTeX源码/,100000,S,01_thesis,B01,主配置
+/mnt/d/paper/thesis/LQ_<学号_redacted>_thesis.tex,博士毕业数据总仓库_202606/01_毕业论文与学位材料/02_LaTeX源码/,5000,S,01_thesis,B01,主入口tex
+/mnt/d/paper/thesis/ref/refs.bib,博士毕业数据总仓库_202606/01_毕业论文与学位材料/02_LaTeX源码/,800000,S,01_thesis,B01,参考文献
+/mnt/d/paper/thesis/script/compile.sh,博士毕业数据总仓库_202606/01_毕业论文与学位材料/02_LaTeX源码/,2000,S,01_thesis,B01,编译脚本
+/mnt/k/申请答辩/毕业答辩V5.pptx,博士毕业数据总仓库_202606/06_答辩PPT/,59354756,S,01_thesis,B01,最终答辩PPT 2026-06-02
+/mnt/k/2_work/win_download/毕业答辩V2.pptx,博士毕业数据总仓库_202606/06_答辩PPT/历史版本/,119588607,A,01_thesis,B01,V2大版本含全部动画
+/mnt/k/5_other/Download/a_feishu/毕业答辩V3.pptx,博士毕业数据总仓库_202606/06_答辩PPT/历史版本/,71351188,A,01_thesis,B01,V3飞书版本
+/mnt/k/申请答辩/毕业答辩V4.2.pptx,博士毕业数据总仓库_202606/06_答辩PPT/历史版本/,72772122,A,01_thesis,B01,V4.2 答辩前
+/mnt/k/申请答辩/毕业答辩V4.3.pptx,博士毕业数据总仓库_202606/06_答辩PPT/历史版本/,67240002,A,01_thesis,B01,V4.3 终稿前
+/mnt/k/3.18/PPT.MOV,博士毕业数据总仓库_202606/01_毕业论文与学位材料/答辩录像/,2200000000,S,07_media,B01,2.12GB 答辩录像
+/mnt/k/3.18/voice.mp4,博士毕业数据总仓库_202606/01_毕业论文与学位材料/答辩录像/,1300000000,S,07_media,B01,1.21GB 答辩音频
+/mnt/k/3.18/*.srt,博士毕业数据总仓库_202606/01_毕业论文与学位材料/答辩录像/字幕/,200000,S,07_media,B01,19个SRT字幕
+/mnt/k/2_work/win_download/答辩后学位论文修改说明_签字版.docx,博士毕业数据总仓库_202606/07_答辩申请/,500000,S,01_thesis,B01,签字版修改说明
+/mnt/k/申请答辩/博士论文答辩申请书.docx,博士毕业数据总仓库_202606/07_答辩申请/,300000,S,01_thesis,B01,申请书
+/mnt/d/paper/thesis/LQ/小论文正式版/,博士毕业数据总仓库_202606/01_毕业论文与学位材料/发表小论文/,80000000,S,02_papers,B01,5篇已发+14篇在投PDF
+/mnt/d/paper/thesis/LQ/小论文tex版/,博士毕业数据总仓库_202606/01_毕业论文与学位材料/发表小论文源码/,40000000,S,02_papers,B01,小论文LaTeX源
+/mnt/d/paper/thesis/LQ/李奇_简历2025_10_21.pdf,博士毕业数据总仓库_202606/05_个人行政与证明/CV/,2000000,S,05_personal,B03,CV v2.4主版
+/mnt/k/博士后/进站材料/,博士毕业数据总仓库_202606/05_个人行政与证明/博后进站/,23000000,S,05_personal,B03,进站24文件
+/mnt/k/申请答辩/优秀毕业生申请_李奇6.pptx,博士毕业数据总仓库_202606/05_个人行政与证明/优秀毕业生/,5000000,S,05_personal,B03,优秀毕业生申请
+/mnt/c/Users/Administrator/Zotero/zotero.sqlite,博士毕业数据总仓库_202606/01_毕业论文与学位材料/参考文献库/,300000000,S,02_papers,B01,Zotero文献库索引
+/mnt/c/Users/Administrator/Zotero/storage/,博士毕业数据总仓库_202606/01_毕业论文与学位材料/参考文献库/storage/,2000000000,S,02_papers,B01,Zotero PDF附件
+/mnt/d/drive/OneDrive - mails.tsinghua.edu.cn/_博科研_Richie/10.project/1_DSN/7_FD会议TII/1、重投/TII_TON_final.pdf,博士毕业数据总仓库_202606/01_毕业论文与学位材料/发表小论文/TII_TON/,26981677,S,02_papers,B01,TON最终版
+/mnt/k/2_work/win_download/6-5审稿/11-tii2/TII-26-5183_Proof_hi.pdf,博士毕业数据总仓库_202606/01_毕业论文与学位材料/发表小论文/TII2/,1396040,S,02_papers,B01,TII-26-5183 proof
+/mnt/k/2_work/win_download/6-5审稿/8-tii-fromqin/TII-26-4340_Proof_hi.pdf,博士毕业数据总仓库_202606/01_毕业论文与学位材料/发表小论文/TII2/,1402707,S,02_papers,B01,TII-26-4340 proof
+/mnt/k/2_work/win_download/TII-26-1770_Proof_hi.pdf,博士毕业数据总仓库_202606/01_毕业论文与学位材料/发表小论文/TII2/,18762036,S,02_papers,B01,TII-26-1770 proof
+/home/richie_thu/Richie1/homepage/,博士毕业数据总仓库_202606/06_知识系统与自蒸馏OS/个人主页/,10000000,S,05_personal,B04,jemdoc个人主页源
+/mnt/k/2_work/LQQL_OS/.agents/skills/,博士毕业数据总仓库_202606/06_知识系统与自蒸馏OS/canonical_skills/,2500000,S,06_os,B04,18个canonical skill
+/mnt/c/Users/Administrator/.agents/skills/,博士毕业数据总仓库_202606/06_知识系统与自蒸馏OS/全局skills库/,20000000,S,06_os,B04,53个Codex skill全局
+/home/richie_thu/project_report/,博士毕业数据总仓库_202606/06_知识系统与自蒸馏OS/project_report/,124000,S,06_os,B04,WSL主目录盘点
+/mnt/d/paper/thesis/AGENTS.md,博士毕业数据总仓库_202606/06_知识系统与自蒸馏OS/thesis_仓库_agent配置/,5000,S,06_os,B04,thesis agent
+/mnt/d/paper/thesis/CLAUDE.md,博士毕业数据总仓库_202606/06_知识系统与自蒸馏OS/thesis_仓库_agent配置/,8000,S,06_os,B04,thesis claude
+/mnt/k/2_work/win_download/博士学位论文评阅程序及写作格式要求(20260305).pdf,博士毕业数据总仓库_202606/01_毕业论文与学位材料/写作要求/,4777316,A,01_thesis,B01,论文写作要求
+/mnt/d/paper/paper_25_9_vibench/,博士毕业数据总仓库_202606/02_科研项目与代码/ViBench论文项目/,180000000,A,03_code,B04,ViBench论文项目排除.git
+/mnt/d/paper/paper_25_9_vibench/.claude/Doc/,博士毕业数据总仓库_202606/06_知识系统与自蒸馏OS/ViBench_论文复盘文档/,2000000,A,03_code,B04,ViBench复盘doc
+/mnt/k/2_work/7_11ICASSP/,博士毕业数据总仓库_202606/02_科研项目与代码/7_11ICASSP_DeepKoopman_NSNet/,15000000000,A,03_code,B04,Deep Koopman + NSNet 排除checkpoints/wandb
+/mnt/k/2_work/liki/,博士毕业数据总仓库_202606/02_科研项目与代码/liki_个人代码库/,17000000000,A,03_code,B04,ADG1/JADA/SNDA/CCNN 排除checkpoints
+/mnt/k/2_work/7_12Moe/,博士毕业数据总仓库_202606/02_科研项目与代码/7_12Moe/,12000000000,A,03_code,B04,MoE项目排除checkpoints/wandb/.conda
+/mnt/k/2_work/7_RL/,博士毕业数据总仓库_202606/02_科研项目与代码/7_RL_AlphaGen/,23000000000,A,03_code,B04,AlphaGen RL项目排除checkpoints
+/mnt/k/2_work/7_13logic/,博士毕业数据总仓库_202606/02_科研项目与代码/7_13logic_神经符号/,5300000000,A,03_code,B04,神经符号逻辑含.git
+/mnt/k/2_work/LQQL_OS/,博士毕业数据总仓库_202606/06_知识系统与自蒸馏OS/LQQL_OS_全仓/,9200000000,A,06_os,B04,LQQL_OS全仓含.git
+/mnt/k/2_work/LQQL_OS/01_日记/02_Richie_工作日记/03_技术/os/,博士毕业数据总仓库_202606/06_知识系统与自蒸馏OS/LQQL_OS_core/,110000000,S,06_os,B04,core子集
+/mnt/k/2_work/9_past/,博士毕业数据总仓库_202606/02_科研项目与代码/历史项目归档/,30000000000,B,03_code,B04,历史项目排除checkpoints
+/mnt/k/2_work/TII_TON_archives/,博士毕业数据总仓库_202606/02_科研项目与代码/TII_TON_archives/,1300000000,A,03_code,B04,TII TON图归档
+/home/richie_thu/_Richie_project/,博士毕业数据总仓库_202606/02_科研项目与代码/_Richie_project_WSL/,21000000000,A,03_code,B04,WSL PHM项目排除dataset/Deep symbolic net
+/mnt/d/code/,博士毕业数据总仓库_202606/02_科研项目与代码/d_code学习/,735000000,B,03_code,B04,D盘代码总目录
+/mnt/k/D01_vibench/,博士毕业数据总仓库_202606/03_实验数据与结果/vibench/,89000000000,A,04_data,B05,89GB ViBench 16个HDF5+metadata
+/mnt/k/yale_data/,博士毕业数据总仓库_202606/03_实验数据与结果/yale/,2300000000,B,04_data,B05,Yale数据
+/mnt/k/2_work/2_实验过程性/,博士毕业数据总仓库_202606/03_实验数据与结果/实验过程性/,41000000000,B,04_data,B05,41GB实验过程
+/mnt/k/2_work/3_dataset/,博士毕业数据总仓库_202606/03_实验数据与结果/3_dataset/,9300000000,B,04_data,B05,DIRG/挑战赛/PV
+/mnt/d/科研数据/,博士毕业数据总仓库_202606/03_实验数据与结果/科研数据_d盘/,398000000,B,04_data,B05,D盘科研数据
+/mnt/d/paper/thesis/backups/,博士毕业数据总仓库_202606/01_毕业论文与学位材料/论文版本历史/,1400000000,A,01_thesis,B01,1.4GB论文版本历史
+/home/richie_thu/miniconda3/envs/,博士毕业数据总仓库_202606/_envs/conda_envs_exported/,5000000,A,08_env,B02,13个conda envs导出
+/home/richie_thu/.bashrc,博士毕业数据总仓库_202606/_envs/dotfiles/,5000,A,08_env,B02,bashrc
+/home/richie_thu/.zshrc,博士毕业数据总仓库_202606/_envs/dotfiles/,5000,A,08_env,B02,zshrc
+/home/richie_thu/.condarc,博士毕业数据总仓库_202606/_envs/dotfiles/,1000,A,08_env,B02,condarc
+/home/richie_thu/.gitconfig,博士毕业数据总仓库_202606/_envs/dotfiles/,1000,A,08_env,B02,gitconfig (脱敏token)
+/mnt/k/2_work/win_download/logic_multichannel_bundle_v2/,博士毕业数据总仓库_202606/02_科研项目与代码/nsnet_logic_bundle_v2/,200000000,A,03_code,B04,NSNet+logic bundle
+/mnt/k/2_work/win_download/nsnet_logic_bundle/,博士毕业数据总仓库_202606/02_科研项目与代码/nsnet_logic_bundle/,200000000,B,03_code,B04,NSNet logic bundle
+/mnt/d/drive/OneDrive - mails.tsinghua.edu.cn/_博科研_Richie/10.project/1_DSN/7_FD会议TII/,博士毕业数据总仓库_202606/01_毕业论文与学位材料/发表小论文/TII_TON_项目源/,1000000000,A,02_papers,B01,TII TON项目源含重投版本
+/mnt/d/drive/OneDrive - mails.tsinghua.edu.cn/zotero_files/,博士毕业数据总仓库_202606/01_毕业论文与学位材料/参考文献库/zotero_files/,5000000000,B,02_papers,B01,Zotero files Onedrive
+/mnt/k/博士后/进站材料.zip,博士毕业数据总仓库_202606/05_个人行政与证明/博后进站/zip备份/,25000000,B,05_personal,B03,进站材料zip备份
+/mnt/k/2_work/win_download/6-5审稿/,博士毕业数据总仓库_202606/01_毕业论文与学位材料/发表小论文/审稿过程/,50000000,A,02_papers,B01,审稿过程包
+/mnt/k/5_other/Download/a_feishu/,博士毕业数据总仓库_202606/01_毕业论文与学位材料/飞书版本归档/,300000000,B,02_papers,B01,飞书版本归档
+/mnt/d/paper/thesis/定稿/,博士毕业数据总仓库_202606/01_毕业论文与学位材料/博士论文定稿/全集/,100000000,A,01_thesis,B01,定稿全集
+/mnt/k/2_work/LQQL_OS/lqql_06_工作与项目/03_论文流水线/P03_nesy_phm_review/,博士毕业数据总仓库_202606/06_知识系统与自蒸馏OS/论文流水线/P03_nesy_phm_review/,328000000,A,06_os,B04,神经符号PHM综述
+/mnt/k/2_work/LQQL_OS/lqql_06_工作与项目/03_论文流水线/R00-phmfactory/,博士毕业数据总仓库_202606/06_知识系统与自蒸馏OS/论文流水线/R00-phmfactory/,6400000000,A,06_os,B04,phmfactory代码仓库
+/mnt/k/申请答辩/博士论文评阅意见汇总.docx,博士毕业数据总仓库_202606/07_答辩申请/评阅意见/,1000000,A,01_thesis,B01,评阅意见汇总
+/mnt/k/3.18/视频*.mp4,博士毕业数据总仓库_202606/01_毕业论文与学位材料/答辩录像/补充视频/,500000000,B,07_media,B01,补充视频
+/mnt/k/2_work/win_download/论文文献更新包_20260325_v3/,博士毕业数据总仓库_202606/01_毕业论文与学位材料/参考文献库/更新包/,200000000,B,02_papers,B01,文献更新包v3
+/mnt/d/code/study/,博士毕业数据总仓库_202606/02_科研项目与代码/学习参考/,219410138,B,03_code,B04,学习参考代码
+/mnt/d/code/study/Probabilistic_RUL_Prediction-main/,博士毕业数据总仓库_202606/02_科研项目与代码/学习参考/Probabilistic_RUL/,217630839,B,03_code,B04,概率RUL
+/mnt/d/code/study/Stacked-DCNN-RUL-PHM21-main/,博士毕业数据总仓库_202606/02_科研项目与代码/学习参考/Stacked-DCNN/,207000000,B,03_code,B04,Stacked DCNN
+/mnt/d/code/study/RESS-Paper-2022.09-Remaining-useful-life-prediction-by-TaFCN-main/,博士毕业数据总仓库_202606/02_科研项目与代码/学习参考/TaFCN/,100000000,B,03_code,B04,TaFCN
+/mnt/d/code/study/PyPHM-master/,博士毕业数据总仓库_202606/02_科研项目与代码/学习参考/PyPHM/,10000000,B,03_code,B04,PyPHM
+/mnt/d/code/feishu_download/feishu_minutes/,博士毕业数据总仓库_202606/02_科研项目与代码/飞书会议纪要/,5674304,B,03_code,B04,飞书会议纪要
+/mnt/k/2_work/9_past/历史项目/,博士毕业数据总仓库_202606/02_科研项目与代码/历史项目/历史项目子集/,1000000000,B,03_code,B04,历史项目子集
+/mnt/d/科研数据/挑战赛/,博士毕业数据总仓库_202606/03_实验数据与结果/挑战赛/,200000000,B,04_data,B05,挑战赛
+/mnt/d/科研数据/DIRG/,博士毕业数据总仓库_202606/03_实验数据与结果/DIRG/,100000000,B,04_data,B05,DIRG数据
+/mnt/d/科研数据/PV/,博士毕业数据总仓库_202606/03_实验数据与结果/PV/,100000000,B,04_data,B05,PV数据
+/mnt/e/202303*/,博士毕业数据总仓库_202606/03_实验数据与结果/TB日志归档/,1000000000,C,04_data,B05,TB日志6目录归档
+/mnt/k/2_work/2_实验过程性/日志备份/,博士毕业数据总仓库_202606/03_实验数据与结果/日志备份/,5000000000,C,04_data,B05,日志备份
+/mnt/d/drive/OneDrive - mails.tsinghua.edu.cn/_博科研_Richie/10.project/1_DSN/7_FD会议TII/0、paper_figs/,博士毕业数据总仓库_202606/01_毕业论文与学位材料/发表小论文/TII_TON_paper_figs/,50000000,C,02_papers,B01,TII paper figs
+/mnt/d/drive/OneDrive - mails.tsinghua.edu.cn/_博科研_Richie/10.project/1_DSN/7_FD会议TII/历史版本/,博士毕业数据总仓库_202606/01_毕业论文与学位材料/发表小论文/TII_TON_历史PDF/,80000000,C,02_papers,B01,TII历史18个PDF
+/mnt/k/5_other/Download/,博士毕业数据总仓库_202606/04_原始下载归档/,3000000000,C,02_papers,B08,下载归档
+/mnt/k/2_work/win_download/,博士毕业数据总仓库_202606/04_原始下载归档/win_download/,5000000000,C,02_papers,B08,win_download归档
+/mnt/c/Users/Administrator/.condarc,博士毕业数据总仓库_202606/_envs/dotfiles/,2000,B,08_env,B02,Windows condarc
+/mnt/c/Users/Administrator/.gitconfig,博士毕业数据总仓库_202606/_envs/dotfiles/,2000,B,08_env,B02,Windows gitconfig
+/mnt/c/Users/Administrator/.bash_history,博士毕业数据总仓库_202606/_envs/dotfiles/,50000,C,08_env,B02,bash history
+/home/richie_thu/.tmux.conf,博士毕业数据总仓库_202606/_envs/dotfiles/,3000,B,08_env,B02,tmux config
+/home/richie_thu/.vimrc,博士毕业数据总仓库_202606/_envs/dotfiles/,5000,B,08_env,B02,vimrc
+/mnt/k/2_work/win_download/logic_multichannel_bundle_v2/src/,博士毕业数据总仓库_202606/02_科研项目与代码/nsnet_logic_bundle_v2_src/,5000000,B,03_code,B04,NSNet logic src
+/mnt/k/2_work/win_download/6-5审稿/历史审稿/,博士毕业数据总仓库_202606/01_毕业论文与学位材料/发表小论文/历史审稿/,30000000,C,02_papers,B01,历史审稿
+/mnt/d/paper_worktree/,博士毕业数据总仓库_202606/01_毕业论文与学位材料/paper_worktree/,100000000,C,01_thesis,B01,paper worktree
+/mnt/d/paper/thesis/盲审修改/,博士毕业数据总仓库_202606/01_毕业论文与学位材料/盲审修改/,50000000,B,01_thesis,B01,盲审修改包
+/mnt/d/drive/OneDrive - mails.tsinghua.edu.cn/_博生活_Richie/李奇毕业资料/,博士毕业数据总仓库_202606/05_个人行政与证明/硕士毕业资料/,2000000000,C,05_personal,B03,硕士毕业资料参考
+/mnt/d/drive/OneDrive - mails.tsinghua.edu.cn/_博科研_Richie/,博士毕业数据总仓库_202606/04_原始备份索引/Onedrive备份/,5000000000,C,02_papers,B08,Onedrive备份归档
+/mnt/k/D01_vibench/,博士毕业数据总仓库_202606/03_实验数据与结果/vibench/,89000000000,A,04_data,B06,ViBench 89GB 16个HDF5+metadata
+/mnt/k/yale_data/,博士毕业数据总仓库_202606/03_实验数据与结果/yale/,2300000000,B,04_data,B07,Yale bearings 2.3GB
+/mnt/k/2_work/3_dataset/,博士毕业数据总仓库_202606/03_实验数据与结果/3_dataset/,9300000000,B,04_data,B07,DIRG/挑战赛/PV 9.3GB
+/mnt/d/科研数据/,博士毕业数据总仓库_202606/03_实验数据与结果/科研数据_d盘/,398000000,B,04_data,B07,科研数据 D 盘 398MB
+/mnt/k/2_work/2_实验过程性/,博士毕业数据总仓库_202606/03_实验数据与结果/实验过程性/,41000000000,B,04_data,B07,实验过程性 41GB 排除日志
+/mnt/k/3.18/,博士毕业数据总仓库_202606/07_媒体与照片视频/答辩录像/,3500000000,S,07_media,B09,答辩录像 PPT.MOV+voice.mp4+SRT 已在 B01, 此处冗余
+/mnt/k/博士后/学术咨询录音/,博士毕业数据总仓库_202606/07_媒体与照片视频/学术咨询录音/,500000000,B,07_media,B09,学术咨询录音
+/home/richie_thu/miniconda3/envs/,博士毕业数据总仓库_202606/_envs/conda_envs_exported/,5000000,S,08_env,B10,13 conda envs environment.yml+pip freeze
+/home/richie_thu/.bashrc,博士毕业数据总仓库_202606/_envs/dotfiles/.bashrc.sanitized,5000,B,08_env,B10,bashrc 脱敏版
+/home/richie_thu/.zshrc,博士毕业数据总仓库_202606/_envs/dotfiles/.zshrc.sanitized,5000,B,08_env,B10,zshrc 脱敏版
+/home/richie_thu/.condarc,博士毕业数据总仓库_202606/_envs/dotfiles/.condarc.sanitized,2000,B,08_env,B10,condarc 脱敏版
+/home/richie_thu/.gitconfig,博士毕业数据总仓库_202606/_envs/dotfiles/.gitconfig.sanitized,2000,B,08_env,B10,gitconfig 脱敏版

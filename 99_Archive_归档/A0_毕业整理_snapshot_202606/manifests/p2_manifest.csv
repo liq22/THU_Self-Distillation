@@ -1,0 +1,28 @@
+src_path,dst_path_quark,size_bytes,score,domain,os_card,notes
+"/mnt/d/code/study/","博士毕业数据总仓库_202606/02_科研项目与代码/学习参考/",219410138,B,03_code,008,学习参考代码
+"/mnt/d/code/study/Probabilistic_RUL_Prediction-main/","博士毕业数据总仓库_202606/02_科研项目与代码/学习参考/Probabilistic_RUL/",217630839,B,03_code,008,概率RUL
+"/mnt/d/code/study/Stacked-DCNN-RUL-PHM21-main/","博士毕业数据总仓库_202606/02_科研项目与代码/学习参考/Stacked-DCNN/",207000000,B,03_code,008,Stacked DCNN
+"/mnt/d/code/study/RESS-Paper-2022.09-Remaining-useful-life-prediction-by-TaFCN-main/","博士毕业数据总仓库_202606/02_科研项目与代码/学习参考/TaFCN/",100000000,B,03_code,008,TaFCN
+"/mnt/d/code/study/PyPHM-master/","博士毕业数据总仓库_202606/02_科研项目与代码/学习参考/PyPHM/",10000000,B,03_code,008,PyPHM
+"/mnt/d/code/feishu_download/feishu_minutes/","博士毕业数据总仓库_202606/02_科研项目与代码/飞书会议纪要/",5674304,B,03_code,008,飞书会议纪要
+"/mnt/k/2_work/9_past/历史项目/","博士毕业数据总仓库_202606/02_科研项目与代码/历史项目/历史项目子集/",1000000000,B,03_code,008,历史项目子集
+"/mnt/d/科研数据/挑战赛/","博士毕业数据总仓库_202606/03_实验数据与结果/挑战赛/",200000000,B,04_data,016,挑战赛
+"/mnt/d/科研数据/DIRG/","博士毕业数据总仓库_202606/03_实验数据与结果/DIRG/",100000000,B,04_data,016,DIRG数据
+"/mnt/d/科研数据/PV/","博士毕业数据总仓库_202606/03_实验数据与结果/PV/",100000000,B,04_data,016,PV数据
+"/mnt/e/202303*/","博士毕业数据总仓库_202606/03_实验数据与结果/TB日志归档/",1000000000,C,04_data,016,TB日志6目录归档
+"/mnt/k/2_work/2_实验过程性/日志备份/","博士毕业数据总仓库_202606/03_实验数据与结果/日志备份/",5000000000,C,04_data,016,日志备份
+"/mnt/d/drive/OneDrive - mails.tsinghua.edu.cn/_博科研_Richie/10.project/1_DSN/7_FD会议TII/0、paper_figs/","博士毕业数据总仓库_202606/01_毕业论文与学位材料/发表小论文/TII_TON_paper_figs/",50000000,C,02_papers,012,TII paper figs
+"/mnt/d/drive/OneDrive - mails.tsinghua.edu.cn/_博科研_Richie/10.project/1_DSN/7_FD会议TII/历史版本/","博士毕业数据总仓库_202606/01_毕业论文与学位材料/发表小论文/TII_TON_历史PDF/",80000000,C,02_papers,012,TII历史18个PDF
+"/mnt/k/5_other/Download/","博士毕业数据总仓库_202606/04_原始下载归档/",3000000000,C,02_papers,012,下载归档
+"/mnt/k/2_work/win_download/","博士毕业数据总仓库_202606/04_原始下载归档/win_download/",5000000000,C,02_papers,012,win_download归档
+"/mnt/c/Users/Administrator/.condarc","博士毕业数据总仓库_202606/_envs/dotfiles/",2000,B,08_env,008,Windows condarc
+"/mnt/c/Users/Administrator/.gitconfig","博士毕业数据总仓库_202606/_envs/dotfiles/",2000,B,08_env,008,Windows gitconfig
+"/mnt/c/Users/Administrator/.bash_history","博士毕业数据总仓库_202606/_envs/dotfiles/",50000,C,08_env,008,bash history
+"/home/richie_thu/.tmux.conf","博士毕业数据总仓库_202606/_envs/dotfiles/",3000,B,08_env,008,tmux config
+"/home/richie_thu/.vimrc","博士毕业数据总仓库_202606/_envs/dotfiles/",5000,B,08_env,008,vimrc
+"/mnt/k/2_work/win_download/logic_multichannel_bundle_v2/src/","博士毕业数据总仓库_202606/02_科研项目与代码/nsnet_logic_bundle_v2_src/",5000000,B,03_code,013,NSNet logic src
+"/mnt/k/2_work/win_download/6-5审稿/历史审稿/","博士毕业数据总仓库_202606/01_毕业论文与学位材料/发表小论文/历史审稿/",30000000,C,02_papers,012,历史审稿
+"/mnt/d/paper_worktree/","博士毕业数据总仓库_202606/01_毕业论文与学位材料/paper_worktree/",100000000,C,01_thesis,010,paper worktree
+"/mnt/d/paper/thesis/盲审修改/","博士毕业数据总仓库_202606/01_毕业论文与学位材料/盲审修改/",50000000,B,01_thesis,013,盲审修改包
+"/mnt/d/drive/OneDrive - mails.tsinghua.edu.cn/_博生活_Richie/李奇毕业资料/","博士毕业数据总仓库_202606/05_个人行政与证明/硕士毕业资料/",2000000000,C,05_personal,005,硕士毕业资料参考
+"/mnt/d/drive/OneDrive - mails.tsinghua.edu.cn/_博科研_Richie/","博士毕业数据总仓库_202606/04_原始备份索引/Onedrive备份/",5000000000,C,02_papers,012,Onedrive备份归档

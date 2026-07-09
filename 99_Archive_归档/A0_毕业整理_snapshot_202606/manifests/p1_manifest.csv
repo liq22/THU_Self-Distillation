@@ -1,0 +1,38 @@
+src_path,dst_path_quark,size_bytes,score,domain,os_card,notes
+"/mnt/d/paper/paper_25_9_vibench/","博士毕业数据总仓库_202606/02_科研项目与代码/ViBench论文项目/",180000000,A,03_code,015,ViBench论文项目排除.git
+"/mnt/d/paper/paper_25_9_vibench/.claude/Doc/","博士毕业数据总仓库_202606/06_知识系统与自蒸馏OS/ViBench_论文复盘文档/",2000000,A,03_code,015,ViBench复盘doc
+"/mnt/k/2_work/7_11ICASSP/","博士毕业数据总仓库_202606/02_科研项目与代码/7_11ICASSP_DeepKoopman_NSNet/",15000000000,A,03_code,008,Deep Koopman + NSNet 排除checkpoints/wandb
+"/mnt/k/2_work/liki/","博士毕业数据总仓库_202606/02_科研项目与代码/liki_个人代码库/",17000000000,A,03_code,008,ADG1/JADA/SNDA/CCNN 排除checkpoints
+"/mnt/k/2_work/7_12Moe/","博士毕业数据总仓库_202606/02_科研项目与代码/7_12Moe/",12000000000,A,03_code,008,MoE项目排除checkpoints/wandb/.conda
+"/mnt/k/2_work/7_RL/","博士毕业数据总仓库_202606/02_科研项目与代码/7_RL_AlphaGen/",23000000000,A,03_code,008,AlphaGen RL项目排除checkpoints
+"/mnt/k/2_work/7_13logic/","博士毕业数据总仓库_202606/02_科研项目与代码/7_13logic_神经符号/",5300000000,A,03_code,008,神经符号逻辑含.git
+"/mnt/k/2_work/LQQL_OS/","博士毕业数据总仓库_202606/06_知识系统与自蒸馏OS/LQQL_OS_全仓/",9200000000,A,06_os,018,LQQL_OS全仓含.git
+"/mnt/k/2_work/LQQL_OS/01_日记/02_Richie_工作日记/03_技术/os/","博士毕业数据总仓库_202606/06_知识系统与自蒸馏OS/LQQL_OS_core/",110000000,S,06_os,018,core子集
+"/mnt/k/2_work/9_past/","博士毕业数据总仓库_202606/02_科研项目与代码/历史项目归档/",30000000000,B,03_code,008,历史项目排除checkpoints
+"/mnt/k/2_work/TII_TON_archives/","博士毕业数据总仓库_202606/02_科研项目与代码/TII_TON_archives/",1300000000,A,03_code,012,TII TON图归档
+"/home/richie_thu/_Richie_project/","博士毕业数据总仓库_202606/02_科研项目与代码/_Richie_project_WSL/",21000000000,A,03_code,008,WSL PHM项目排除dataset/Deep symbolic net
+"/mnt/d/code/","博士毕业数据总仓库_202606/02_科研项目与代码/d_code学习/",735000000,B,03_code,008,D盘代码总目录
+"/mnt/k/D01_vibench/","博士毕业数据总仓库_202606/03_实验数据与结果/vibench/",89000000000,A,04_data,016,89GB ViBench 16个HDF5+metadata
+"/mnt/k/yale_data/","博士毕业数据总仓库_202606/03_实验数据与结果/yale/",2300000000,B,04_data,016,Yale数据
+"/mnt/k/2_work/2_实验过程性/","博士毕业数据总仓库_202606/03_实验数据与结果/实验过程性/",41000000000,B,04_data,016,41GB实验过程
+"/mnt/k/2_work/3_dataset/","博士毕业数据总仓库_202606/03_实验数据与结果/3_dataset/",9300000000,B,04_data,016,DIRG/挑战赛/PV
+"/mnt/d/科研数据/","博士毕业数据总仓库_202606/03_实验数据与结果/科研数据_d盘/",398000000,B,04_data,016,D盘科研数据
+"/mnt/d/paper/thesis/backups/","博士毕业数据总仓库_202606/01_毕业论文与学位材料/论文版本历史/",1400000000,A,01_thesis,010,1.4GB论文版本历史
+"/home/richie_thu/miniconda3/envs/","博士毕业数据总仓库_202606/_envs/conda_envs_exported/",5000000,A,08_env,008,13个conda envs导出
+"/home/richie_thu/.bashrc","博士毕业数据总仓库_202606/_envs/dotfiles/",5000,A,08_env,008,bashrc
+"/home/richie_thu/.zshrc","博士毕业数据总仓库_202606/_envs/dotfiles/",5000,A,08_env,008,zshrc
+"/home/richie_thu/.condarc","博士毕业数据总仓库_202606/_envs/dotfiles/",1000,A,08_env,008,condarc
+"/home/richie_thu/.gitconfig","博士毕业数据总仓库_202606/_envs/dotfiles/",1000,A,08_env,008,gitconfig (脱敏token)
+"/mnt/k/2_work/win_download/logic_multichannel_bundle_v2/","博士毕业数据总仓库_202606/02_科研项目与代码/nsnet_logic_bundle_v2/",200000000,A,03_code,013,NSNet+logic bundle
+"/mnt/k/2_work/win_download/nsnet_logic_bundle/","博士毕业数据总仓库_202606/02_科研项目与代码/nsnet_logic_bundle/",200000000,B,03_code,013,NSNet logic bundle
+"/mnt/d/drive/OneDrive - mails.tsinghua.edu.cn/_博科研_Richie/10.project/1_DSN/7_FD会议TII/","博士毕业数据总仓库_202606/01_毕业论文与学位材料/发表小论文/TII_TON_项目源/",1000000000,A,02_papers,012,TII TON项目源含重投版本
+"/mnt/d/drive/OneDrive - mails.tsinghua.edu.cn/zotero_files/","博士毕业数据总仓库_202606/01_毕业论文与学位材料/参考文献库/zotero_files/",5000000000,B,02_papers,012,Zotero files Onedrive
+"/mnt/k/博士后/进站材料.zip","博士毕业数据总仓库_202606/05_个人行政与证明/博后进站/zip备份/",25000000,B,05_personal,005,进站材料zip备份
+"/mnt/k/2_work/win_download/6-5审稿/","博士毕业数据总仓库_202606/01_毕业论文与学位材料/发表小论文/审稿过程/",50000000,A,02_papers,012,审稿过程包
+"/mnt/k/5_other/Download/a_feishu/","博士毕业数据总仓库_202606/01_毕业论文与学位材料/飞书版本归档/",300000000,B,02_papers,012,飞书版本归档
+"/mnt/d/paper/thesis/定稿/","博士毕业数据总仓库_202606/01_毕业论文与学位材料/博士论文定稿/全集/",100000000,A,01_thesis,013,定稿全集
+"/mnt/k/2_work/LQQL_OS/lqql_06_工作与项目/03_论文流水线/P03_nesy_phm_review/","博士毕业数据总仓库_202606/06_知识系统与自蒸馏OS/论文流水线/P03_nesy_phm_review/",328000000,A,06_os,017,神经符号PHM综述
+"/mnt/k/2_work/LQQL_OS/lqql_06_工作与项目/03_论文流水线/R00-phmfactory/","博士毕业数据总仓库_202606/06_知识系统与自蒸馏OS/论文流水线/R00-phmfactory/",6400000000,A,06_os,016,phmfactory代码仓库
+"/mnt/k/申请答辩/博士论文评阅意见汇总.docx","博士毕业数据总仓库_202606/07_答辩申请/评阅意见/",1000000,A,01_thesis,011,评阅意见汇总
+"/mnt/k/3.18/视频*.mp4","博士毕业数据总仓库_202606/01_毕业论文与学位材料/答辩录像/补充视频/",500000000,B,07_media,007,补充视频
+"/mnt/k/2_work/win_download/论文文献更新包_20260325_v3/","博士毕业数据总仓库_202606/01_毕业论文与学位材料/参考文献库/更新包/",200000000,B,02_papers,012,文献更新包v3
